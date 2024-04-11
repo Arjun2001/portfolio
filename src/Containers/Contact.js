@@ -23,8 +23,7 @@ export function Contact() {
           <div className='contact1' id="contact1">
           <Fade>
             <h6>
-                I'm currently looking for any new opportunities preferably technical 
-                <b> Summer Internships 2021</b>.If you have a question
+                If you have a question
                 or just want to say hi, I'll definately to get back to you!
             </h6> 
             <div className = 'mail-btn'>

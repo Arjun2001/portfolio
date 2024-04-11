@@ -76,7 +76,7 @@ export function ContactList(props) {
           delay="750"
         >
           <Button
-            href={require("../data/resume.pdf")}
+            href={require("../data/Resume.pdf")}
             target="_blank"
             variant="secondary"
             className="list-group-item"

@@ -74,7 +74,7 @@ export function Skills() {
               </p>
               <p>
                 <strong>Technologies:</strong> ReactJS, SQL, Redux, jQuery,
-                VueJS, MongoDB, NodeJS
+                VueJS, MongoDB, NodeJS, PostgresSQL, Nginx, Apache, Selenium.
               </p>
               <p>
                 <strong>Tools:</strong> Git, Docker, AWS,

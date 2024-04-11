@@ -17,9 +17,8 @@ export function About() {
               <div style={{ paddingLeft: "6vw" }}>
                 <div className="p-4 bio">
                   <p>
-                    Hi, I'm {" "}<strong>Arjun Dev PK</strong>, a 3<sup>rd</sup> year {" "}
-                    <strong>Computer Engineering Undergrad</strong> from {" "}
-                    Amrita University ,Coimbatore.
+                    Hi, I'm {" "}<strong>Arjun Dev PK</strong>, a full stack developer working at{" "}
+                    <strong>IBM-CIO</strong>, Banglore.
                   </p>
                   <p>
                     I enjoy developing & engineering{" "}
